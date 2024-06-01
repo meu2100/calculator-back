@@ -3,4 +3,4 @@ const calculate = require('./calculator')
 const history = require('./history')
 
 
-module.exports = { calculate, history}
+module.exports = { calculate, history }
